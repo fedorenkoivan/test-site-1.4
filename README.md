@@ -1,27 +1,6 @@
 # test-site-1.4
 <!DOCTYPE html>
 <html>
-<style>
-    body {
-        background-color: #f85959e0;
-    }
-
-    p {
-        font-family: verdana;
-        font-size: 20px;
-    }
-
-    table,
-    th,
-    td {
-        border: 1px solid rgb(216, 213, 19);
-    }
-</style>
-
-<head>
-    <title></title>
-</head>
-
 <body>
     <!----- Хедери ------->
     <h1>Сайт для Аліни версія 2.0</h1>
