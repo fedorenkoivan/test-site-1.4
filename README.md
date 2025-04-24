@@ -15,10 +15,10 @@
         <li>і куди ж без кокаааа-колиии&#129322;</li>
     </ul
         <h3>мої улюблені пісні:</h3>
-<a href="https://www.youtube.com/watch?v=MF_cYq4EixU">А4 - кідс&#128073;&#128072;</a>
+<a href="https://www.youtube.com/watch?v=17GQTHuHSxg">Як тебе цілував</a>
 <p></p>
 <a href="https://www.youtube.com/watch?v=hTWKbfoikeg">тепер без жартів, це справді легендарно</a>
 <p>ну і на кінець-</p>
-<a href="https://www.youtube.com/channel/UC2tsySbe9TNrI-xh2lximHA">підписку пліііз-</a>  
+<a href="https://www.youtube.com/@portnikov">підписку пліііз-</a>  
 <h4>дякую за увагу, я старався&#128155;</h4>
 </html>
